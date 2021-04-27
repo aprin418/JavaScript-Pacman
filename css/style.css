@@ -1,4 +1,5 @@
 .grid {
+  background-color: black;
   display: flex;
   flex-wrap: wrap;
   width: 560px;
@@ -12,17 +13,22 @@
 }
 
 .dot {
-  background-color: green;
-  border: 5px solid white;
+  background-color: gold;
+  border: 5px solid black;
   box-sizing: border-box;
 }
 
 .wall {
-  background-color: blue;
+  background-color: navy;
 }
+
 .powerPellet {
-  background-color: green;
+  background-color: goldenrod;
   border-radius: 10px;
+}
+
+.path {
+  background-color: black;
 }
 
 .pacMan {
