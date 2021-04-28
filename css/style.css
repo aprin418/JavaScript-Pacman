@@ -3,7 +3,7 @@
   display: flex;
   flex-wrap: wrap;
   width: 560px;
-  height: 560px;
+  height: 640px;
   border: solid black;
 }
 
@@ -63,4 +63,9 @@
 .scaredGhost {
   background-color: aquamarine;
   border: 0px;
+}
+
+.fruit {
+  background-color: red;
+  border-radius: 15px;
 }
