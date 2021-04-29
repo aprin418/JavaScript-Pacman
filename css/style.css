@@ -69,3 +69,8 @@
   background-color: red;
   border-radius: 15px;
 }
+
+#reset {
+  display: flex;
+  flex-direction: row;
+}

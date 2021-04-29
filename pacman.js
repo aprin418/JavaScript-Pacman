@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   const grid = document.querySelector(".grid");
   const scoreDisplay = document.getElementById("score");
+  const resetGameButton = document.getElementById("reset");
   const width = 28;
   const height = 31;
   let score = 0;
@@ -251,4 +252,12 @@ document.addEventListener("DOMContentLoaded", () => {
       scoreDisplay.innerHTML = "YOU WIN! With a score of " + totalScore + "!";
     }
   }
+  function resetGame() {
+    document.addEventListener("click", function () {
+      window.location.reload();
+    });
+  }
+  resetGameButton.onclick = function () {
+    resetGame();
+  };
 });
