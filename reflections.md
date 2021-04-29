@@ -25,8 +25,8 @@
 - [x] Do you have any blockers?
 
 1. Completed most of the framework
-2. try to finish win/lose conditions
-3. the win/lose conditions
+2. Try to finish win/lose conditions
+3. The win/lose conditions
 
 # Wednesday
 
@@ -34,9 +34,9 @@
 - [x] What are your goals for today?
 - [x] Do you have any blockers?
 
-1. completed lose conditions
-2. try to finish win conditions and allow for bonus point accumulation for high scores
-3. getting win conditions to trigger based on classes remaining within the array INSTEAD of based on point accumulation so I can allow bonus points
+1. Completed lose conditions
+2. Try to finish win conditions and allow for bonus point accumulation for high scores
+3. Getting win conditions to trigger based on classes remaining within the array INSTEAD of based on point accumulation so I can allow bonus points
 
 # Thursday
 
@@ -44,9 +44,9 @@
 - [x] What are your goals for today?
 - [x] Do you have any blockers?
 
-1. RESPONSE
-2. RESPONSE
-3. RESPONSE
+1. Fixed win conditions, added bonus points with fruit and reworked array map to look like original pacman
+2. Wrap up final touches and styling
+3. Not yet today
 
 # Friday
 
