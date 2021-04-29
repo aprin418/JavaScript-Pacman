@@ -43,20 +43,18 @@ squares.push(square);
       }
     }
 }
-```
 
-````function checkWin() {
+
+function checkWin() {
     let totalScore = score + bonusScore;
     if (score === 282) {
       ghosts.forEach((ghost) => clearInterval(ghost.timerId));
       document.removeEventListener("keydown", movePacman);
       scoreDisplay.innerHTML = "YOU WIN! With a score of " + totalScore + "!";
     }
-  }```
+  }
+```
 
 # FUTURE CONSIDERATIONS
 
 I would like to add more levels, a starting screen and ending screen
-
-# PROCESS WORK
-````
