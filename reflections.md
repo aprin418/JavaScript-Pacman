@@ -54,6 +54,12 @@
 - [x] What are your goals for today?
 - [x] Do you have any blockers?
 
-1. RESPONSE
-2. RESPONSE
-3. RESPONSE
+1. Added final styles and reset button
+2. Present the project well
+3. Not yet
+
+- What HTML, CSS, and or JavaScript skills you learned while building your game?
+- I really learning arrays and DOM manipulation much more than I had before and my confidence to use them is much higher
+
+- What's one topic you want to spend more practice on?
+- I would like more practice with canvas as I feel that canvas has a lot to offer
